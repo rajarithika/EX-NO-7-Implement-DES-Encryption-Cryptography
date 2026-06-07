@@ -15,7 +15,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 4. DES applies initial and final permutations along with 16 rounds of substitution and permutation transformations to produce ciphertext.
 
 ## NAME: RAJA RITHIKA
-## REG NO: 230500029
+## REG NO: 2305001029
 
 
 ## Program:
