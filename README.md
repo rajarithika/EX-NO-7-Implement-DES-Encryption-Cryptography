@@ -14,6 +14,10 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 
 4. DES applies initial and final permutations along with 16 rounds of substitution and permutation transformations to produce ciphertext.
 
+## NAME: RAJA RITHIKA
+## REG NO: 230500029
+
+
 ## Program:
 ```
 #include <stdio.h>
@@ -43,6 +47,7 @@ int main(){
 
 
 ## Output:
+<img width="543" height="255" alt="image" src="https://github.com/user-attachments/assets/0d429675-f03b-45e8-9f9a-f27e911d4244" />
 
 
 
